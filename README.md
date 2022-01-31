@@ -33,7 +33,7 @@
 
 #### The module used is a Ra-01 LoRa SX1278. There is a logic level converter between the module and the MICRO that allows the correct operation of the LoRa module and a switch to activate it. 
 
-| Semtech SX1276/77/78/79 | MICRO 1284P |
+| Semtech SX1278 | MICRO 1284P |
 | :---------------------: | :------:|
 | VCC | 3.3V |
 | GND | GND |
