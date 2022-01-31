@@ -25,7 +25,7 @@
 ## PINOUT
 #### Coming Soon
 
-##WHAT IS LoRa?
+## WHAT IS LoRa?
 
 #### LoRa (Long Range) is an expanded spectrum frequency modulation technology that uses free sub-gigahertz radio frequency bands such as 433 MHz, 868 MHz (Europe) and 915 MHz (North America). LoRa allows long-range transmissions (over 10 km in rural areas, 3–5 km in highly urbanized areas) with low energy consumption.
 
