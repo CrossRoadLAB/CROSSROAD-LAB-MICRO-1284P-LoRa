@@ -23,7 +23,8 @@
 | Operating voltage   | 1.8 to 5.5        |
 
 ## PINOUT
-#### Coming Soon
+
+![MICRO1284P_LoRa_pinout](https://user-images.githubusercontent.com/83240004/152228157-8160cfad-92df-4afd-95e5-13d73fd607e8.png)
 
 ## WHAT IS LoRa?
 
